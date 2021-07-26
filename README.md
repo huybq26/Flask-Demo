@@ -14,4 +14,4 @@ In case you want to get the information directly from the code and the command l
 ### `python server.py`
 ### `python request.py`
 
-The default value will be 1.8 years.
+The default value will be 1.8 year.
